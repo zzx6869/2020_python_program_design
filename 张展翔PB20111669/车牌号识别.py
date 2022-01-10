@@ -1,8 +1,8 @@
 from aip import AipOcr
 
-APP_ID = '24505499'
-API_KEY = 'cFqOt6iGa1AeEMSFLvnXvueB'
-SECRET_KEY = 'LvUx3XQSgDC37Y2DIMbpxVph642fOVGm'
+APP_ID = 涉及隐私省略
+API_KEY = 
+SECRET_KEY = 
 # 创建客户端对象
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 # 建立连接的超时时间，单位为毫秒
